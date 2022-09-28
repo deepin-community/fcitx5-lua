@@ -1,0 +1,78 @@
+fcitx5-lua (5.0.7-1) UNRELEASED; urgency=medium
+
+  * update
+
+ -- Debian Input Method Team <debian-input-method@lists.debian.org>  Fri, 22 Apr 2022 03:03:29 -0400
+
+fcitx5-lua (5.0.7-1) unstable; urgency=medium
+
+  * Team upload.
+  * New upstream release.
+
+ -- Boyuan Yang <byang@debian.org>  Wed, 16 Mar 2022 10:54:33 -0400
+
+fcitx5-lua (5.0.6-1) unstable; urgency=medium
+
+  * Team upload.
+  * New upstream release.
+
+ -- Boyuan Yang <byang@debian.org>  Sun, 06 Feb 2022 17:40:15 -0500
+
+fcitx5-lua (5.0.5-2) unstable; urgency=medium
+
+  * Team upload.
+  * Fix typo in package description
+
+ -- Shengjing Zhu <zhsj@debian.org>  Fri, 01 Oct 2021 03:16:05 +0800
+
+fcitx5-lua (5.0.5-1) unstable; urgency=medium
+
+  * Team upload.
+  * New upstream release
+  * Update Standards-Version to 4.6.0 (no changes)
+
+ -- Shengjing Zhu <zhsj@debian.org>  Wed, 25 Aug 2021 13:27:10 +0800
+
+fcitx5-lua (5.0.3-1) unstable; urgency=medium
+
+  * Team upload.
+  * New upstream release
+
+ -- Shengjing Zhu <zhsj@debian.org>  Fri, 19 Feb 2021 22:34:42 +0800
+
+fcitx5-lua (5.0.2-1) unstable; urgency=medium
+
+  * Team upload.
+  * New upstream release
+  * Update Standards-Version to 4.5.1 (no changes)
+
+ -- Shengjing Zhu <zhsj@debian.org>  Sat, 16 Jan 2021 02:49:07 +0800
+
+fcitx5-lua (5.0.1-1) unstable; urgency=medium
+
+  * Team upload.
+  * New upstream release
+  * Bump fcitx5 to 5.0.2
+  * Add appstream to Build-Depends
+  * Fix lintian capitalization-error-in-description
+
+ -- Shengjing Zhu <zhsj@debian.org>  Sat, 05 Dec 2020 22:28:01 +0800
+
+fcitx5-lua (5.0.0-1) unstable; urgency=medium
+
+  * Team upload.
+
+  [ Boyuan Yang ]
+  * debian/: Split arch-indep files into -common package
+
+  [ Shengjing Zhu ]
+  * New upstream release
+  * Bump fcitx5 to 5.0.1
+
+ -- Shengjing Zhu <zhsj@debian.org>  Sat, 07 Nov 2020 01:53:57 +0800
+
+fcitx5-lua (0.0~git20200610.8ad9929-1) unstable; urgency=medium
+
+  * Initial release.
+
+ -- Boyuan Yang <byang@debian.org>  Sat, 04 Jul 2020 13:37:41 -0400

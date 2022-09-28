@@ -1,0 +1,4 @@
+usr/share/fcitx5/addon/*
+usr/share/fcitx5/lua/*
+usr/share/locale/*
+usr/share/metainfo/*
