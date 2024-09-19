@@ -1,8 +1,12 @@
-fcitx5-lua (5.0.7-1) UNRELEASED; urgency=medium
+fcitx5-lua (5.0.7-1deepin0) unstable; urgency=medium
 
+  [ Debian Input Method Team ]
   * update
 
- -- Debian Input Method Team <debian-input-method@lists.debian.org>  Fri, 22 Apr 2022 03:03:29 -0400
+  [ Tianyu Chen ]
+  * No source change upload against GCC 12.
+
+ -- Tianyu Chen <sweetyfish@deepin.org>  Thu, 19 Sep 2024 22:46:39 +0800
 
 fcitx5-lua (5.0.7-1) unstable; urgency=medium
 
